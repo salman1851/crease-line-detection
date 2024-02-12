@@ -5,7 +5,7 @@ You need to have Tkinter, OpenCV and pyscreenshot installed into your Python env
 
 Demo:
 
-![screenshot](https://github.com/salman1851/crease-line-detection/assets/131760691/4548f520-e3a6-4a56-a112-4cc4fe08b53b)
+![screenshot](https://github.com/salman1851/crease-line-detection/assets/131760691/01964faf-c8af-4687-84ed-b1e7ec5f8a18)
 
 By default, the application reads images from the webcam. You can replace it with the IP address of your camera.
 
