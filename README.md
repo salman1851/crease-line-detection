@@ -3,8 +3,6 @@ A machine vision Tkinter GUI application that allows the user to draw four verti
 
 You need to have Tkinter, OpenCV and pyscreenshot installed into your Python environment before running this script.
 
-Demo:
-
 ![screenshot](https://github.com/salman1851/crease-line-detection/assets/131760691/01964faf-c8af-4687-84ed-b1e7ec5f8a18)
 
 By default, the application reads images from the webcam. You can replace it with the IP address of your camera.
